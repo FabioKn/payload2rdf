@@ -1,0 +1,22 @@
+opengraph:
+  title: dc:title
+  description: dc:description
+  type: dc:type
+
+json-ld:
+  name: dc:title
+  description: dc:description
+  author.name: dc:creator
+  datePublished: dcterms:issued
+
+microdata:
+  name: schema:name
+  description: schema:description
+
+rdfa:
+  headline: schema:headline
+  dateModified: dcterms:modified
+
+fallback:
+  title: dc:title
+  description: dc:description
