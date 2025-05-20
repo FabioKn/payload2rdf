@@ -32,7 +32,7 @@ Example:
 python extract.py http://example.org/ example.html
 ```
 
-This will output RDF/XML metadata for the given HTML page.
+This will output RDF metadata for the given HTML page. The serialization format can be specified with the `--format` option, default is Turtle.
 
 ---
 
