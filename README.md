@@ -51,6 +51,3 @@ This will output RDF metadata for the given HTML page. The serialization format 
 
 ---
 
-## 📄 License
-
-MIT License. See `LICENSE` file for details.
